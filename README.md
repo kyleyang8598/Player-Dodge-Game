@@ -12,3 +12,4 @@ There are 10 different types of obstacles including 5 different fireball colors,
 Instructions: Avoid the obstacles by pressing the arrow keys to move the player.
 You can also collect the snowflakes on the screen to gain points for each round.
 The player will have to survive for 30 rounds or gain 30 points to win the game.
+![image](https://github.com/user-attachments/assets/817b1028-18c6-43ec-a390-e027b3f85f37)
